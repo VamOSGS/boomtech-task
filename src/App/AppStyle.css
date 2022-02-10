@@ -20,6 +20,7 @@ body {
 }
 .stars.true {
   flex-direction: column-reverse;
+  text-align: left;
 }
 
 .stars li {
